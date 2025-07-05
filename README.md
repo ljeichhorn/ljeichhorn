@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I’m [Your Name]! I currently work as a Workflow Manager at a tire service company, but I’m actively transitioning into the IT field to pursue my passion for technology and problem-solving.
+Hi, I’m Luke Eichhorn! I currently work as a Workflow Manager at a tire service company, but I’m actively transitioning into the IT field to pursue my passion for technology and problem-solving.
 
 ### Technical Skills
 
@@ -24,6 +24,4 @@ Self-driven problem solver shifting into IT. I enjoy building efficient, multi-p
 - **Sim racing enthusiast**
 - **Passionate about tech minimalism & DIY hardware builds**
 
-Let’s connect!
-- [LinkedIn](#) <!-- Replace # with your LinkedIn URL -->
-- [GitHub](#) <!-- Replace # with your GitHub URL -->
+
